@@ -1,0 +1,22 @@
+.wrapper {
+	height: 40px;
+	min-width: 215px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+.search-input {
+	height: 30px;
+	width: 70%;
+	outline: none;
+	border: none;
+	padding: 0 10px;
+	border-radius: 10px;
+}
+
+.search-icon {
+	margin-right: 10px;
+}

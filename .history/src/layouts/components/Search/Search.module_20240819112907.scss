@@ -1,0 +1,14 @@
+.wrapper {
+	height: 40;
+	min-width: 215px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid #ccc;
+}
+
+.search-input {
+	height: 100%;
+	outline: none;
+	border: none;
+}

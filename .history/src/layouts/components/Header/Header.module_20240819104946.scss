@@ -1,0 +1,39 @@
+.wrapper {
+	height: 80px;
+	width: 100%;
+	padding: 0px 45px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo-brand {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+}
+
+.info-contact {
+	display: flex;
+	align-items: center;
+}
+
+.contact {
+	display: flex;
+}
+
+.contact_title {
+	font-weight: bold;
+}
+
+.image-telesale {
+	width: 20px;
+	height: 20px;
+	margin-right: 8px;
+}
+
+.other {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}

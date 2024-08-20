@@ -1,0 +1,72 @@
+.wrapper {
+	height: 80px;
+	width: 100%;
+	padding: 0px 45px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo-brand {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+}
+
+.header-content {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 70%;
+}
+
+.info-contact {
+	display: flex;
+	align-items: center;
+}
+
+.contact {
+	display: flex;
+	align-items: center;
+}
+
+.contact_title,
+.company-title {
+	font-weight: bold;
+	margin-right: 5px;
+	font-size: 14px;
+}
+
+.company-title:hover {
+	color: red;
+	cursor: pointer;
+}
+
+.contact_number > span {
+	font-weight: bold;
+	font-size: 14px;
+	color: red;
+}
+
+.contact_number:hover > span {
+	color: black;
+	cursor: pointer;
+}
+
+.image-telesale,
+.image-map {
+	width: 20px;
+	height: 20px;
+	margin-right: 8px;
+}
+
+.other-company {
+	display: flex;
+	align-items: center;
+}
+
+.other {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}

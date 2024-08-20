@@ -1,0 +1,19 @@
+.wrapper {
+	height: 80px;
+	width: 100%;
+	padding: 0px 45px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo-brand {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+}
+
+.other {
+	display: flex;
+	align-items: center;
+}

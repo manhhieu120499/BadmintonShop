@@ -1,0 +1,18 @@
+.wrapper {
+	height: 40px;
+	min-width: 215px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid #ccc;
+}
+
+.search-input {
+	height: 30px;
+	outline: none;
+	border: none;
+	padding: 0 10px;
+}
+
+.search-icon {
+}
